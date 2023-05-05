@@ -89,13 +89,13 @@ const LandingPage = () => {
             (c) Ville Halmes 2023
           </Typography>
           <Box>
-            <IconButton>
+            <IconButton href="https://www.linkedin.com/in/ville-halmes/" target="_blank" rel="noopener noreferrer">
               <LinkedIn />
             </IconButton>
-            <IconButton>
+            <IconButton href="https://instagram.com/villehalmes" target="_blank" rel="noopener noreferrer">
               <Instagram />
             </IconButton>
-            <IconButton>
+            <IconButton href="https://www.strava.com/athletes/85756153" target="_blank" rel="noopener noreferrer">
               <DirectionsRun />
             </IconButton>
           </Box>
